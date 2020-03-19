@@ -1,7 +1,16 @@
 {
-    "active": true,
-    "name": "Data Bootcamp - Spring 2020",
-    "students": ["Abdulla Aljazzaf", "Ahmad Bash", "Enaam Al-Ejel", "Fahad AlSubaiei",
-        "Modhy Bader Almunaifi","Mohammad AlThunayan","Mohammed Assadieh",
-        "Nawaf AlRifai","Noor Al Saif","Omar Alsharaf"]
+  "active": true,
+  "name": "Data Bootcamp - Spring 2020",
+  "students": [
+    "Abdulla Aljazzaf",
+    "Ahmad Bash",
+    "Enaam Al-Ejel",
+    "Fahad AlSubaiei",
+    "Modhy Bader Almunaifi",
+    "Mohammad AlThunayan",
+    "Mohammed Assadieh",
+    "Nawaf AlRifai",
+    "Noor Al Saif",
+    "Omar Alsharaf"
+  ]
 }
